@@ -1,28 +1,15 @@
-# template
-
-**template for pathology atlas repositories**
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-> do not forget to activate github pages for the new repository
-
-
-```zsh
-vips dzsave HE.svs HE
-```
+# Necrotising Granulomatous Inflammation
 
 
 ```{asis}
 #| echo = (language == "TR")
-# TemplateTR
+# Nekrotizan Granülamatöz İnflamasyon
 ```
 
 
 ```{asis}
 #| echo = (language == "EN")
-# TemplateEN
+# Necrotising Granulomatous Inflammation
 ```
 
 
@@ -30,14 +17,14 @@ vips dzsave HE.svs HE
 ```{asis}
 #| echo = (language == "TR")
 
-**templateTR**
+**Karaciğer dokusunda nekrotizan granülamatöz inflamasyon**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/necrotisinggranuloma/HE.html](https://pathologyatlas.github.io/necrotisinggranuloma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/necrotisinggranuloma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -45,14 +32,14 @@ Mikroskopik görüntüleri inceleyin:
 ```{asis}
 #| echo = (language == "EN")
 
-**templateEN**
+**Necrotising Granulomatous Inflammation in Liver**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/necrotisinggranuloma/HE.html](https://pathologyatlas.github.io/necrotisinggranuloma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/necrotisinggranuloma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
