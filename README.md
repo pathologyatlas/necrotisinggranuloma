@@ -20,11 +20,11 @@
 **Karaciğer dokusunda nekrotizan granülamatöz inflamasyon**
 
 
-[https://pathologyatlas.github.io/necrotisinggranuloma/HE.html](https://pathologyatlas.github.io/necrotisinggranuloma/HE.html)
+[https://images.patolojiatlasi.com/necrotisinggranuloma/HE.html](https://images.patolojiatlasi.com/necrotisinggranuloma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/necrotisinggranuloma/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/necrotisinggranuloma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -35,11 +35,11 @@ Mikroskopik görüntüleri inceleyin:
 **Necrotising Granulomatous Inflammation in Liver**
 
 
-[https://pathologyatlas.github.io/necrotisinggranuloma/HE.html](https://pathologyatlas.github.io/necrotisinggranuloma/HE.html)
+[https://images.patolojiatlasi.com/necrotisinggranuloma/HE.html](https://images.patolojiatlasi.com/necrotisinggranuloma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/necrotisinggranuloma/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/necrotisinggranuloma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
